@@ -3,7 +3,9 @@
 This folder contains DAS data for all USGS cataloged events and the uncataloged event we detected using numpy npz files.
 
 Records start 10 seconds before cataloged event timing and end 50 seconds after that time - total of 60 seconds. 
-DAS channels spacing is 1m. 
+DAS channels spacing is 1m, gauge length is 10m
+Data are sampled at 2500 samples/second.
+
 Data processing steps:
 1) Median removal
 2) High-cut filter (anti-alias)
