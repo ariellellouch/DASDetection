@@ -1,6 +1,9 @@
 # DASDetection
 
-This folder contains DAS data for all USGS cataloged events and the uncataloged event we detected using numpy npz files.
+IMPORTANT - due to storage issues, all files have been moved here:
+
+
+This folder contains DAS data for all USGS cataloged events and the uncataloged event we detected using numpy npy files.
 
 Records start 10 seconds before cataloged event timing and end 50 seconds after that time - total of 60 seconds. 
 DAS channels spacing is 1m, gauge length is 10m.
