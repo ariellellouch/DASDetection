@@ -1,6 +1,6 @@
 # DASDetection
 
-IMPORTANT - due to storage issues and anticipating future erasing from github, all files have been moved here:
+IMPORTANT - due to storage issues and anticipating future erasing from github, all files are also stored here:
 https://www.dropbox.com/sh/cep88e3tc0sri6m/AACCb2r2nPL8Q9a4r4cc5sX-a?dl=0
 
 Please contact me (lellouch@gmail.com) if you're encountering any issues!
