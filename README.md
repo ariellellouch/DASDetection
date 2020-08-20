@@ -2,6 +2,7 @@
 
 IMPORTANT - due to storage issues, all files have been moved here:
 
+Please contact me (lellouch@gmail.com) if you're encountering any issues!
 
 This folder contains DAS data for all USGS cataloged events and the uncataloged event we detected using numpy npy files.
 
